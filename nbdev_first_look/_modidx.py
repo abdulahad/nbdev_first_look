@@ -17,4 +17,7 @@ d = { 'settings': { 'branch': 'main',
                                        'nbdev_first_look.deck.Deck.__init__': ('deck.html#deck.__init__', 'nbdev_first_look/deck.py'),
                                        'nbdev_first_look.deck.Deck.__len__': ('deck.html#deck.__len__', 'nbdev_first_look/deck.py'),
                                        'nbdev_first_look.deck.Deck.__str__': ('deck.html#deck.__str__', 'nbdev_first_look/deck.py'),
-                                       'nbdev_first_look.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_first_look/deck.py')}}}
+                                       'nbdev_first_look.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_first_look/deck.py'),
+                                       'nbdev_first_look.deck.Deck.remove': ('deck.html#deck.remove', 'nbdev_first_look/deck.py'),
+                                       'nbdev_first_look.deck.Deck.shuffle': ('deck.html#deck.shuffle', 'nbdev_first_look/deck.py'),
+                                       'nbdev_first_look.deck.draw_n': ('deck.html#draw_n', 'nbdev_first_look/deck.py')}}}
