@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_first_look"
+  site-url: "https://abdulahad.github.io/nbdev_first_look"
+  description: "learning nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/abdulahad/nbdev_first_look"
